@@ -1,0 +1,6 @@
+VAR a = 10.2
+VAR b = (20 - a) * 3
+
+VAR r = 3.14 - 3
+
+PRINT(r)
